@@ -1,0 +1,26 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #a17878;
+  color: rebeccapurple;
+}
+
+body{
+  color: #03080322;
+}
+
+p{
+  font-size: fantasy;
+}
+ p {
+ color: #000000;
+ font-style: italic;
+
+
+h1 {
+  color: #f0f0ff;
+  font-weight: bold;
+  font-family: Helvetica, sans-serif;
+}
